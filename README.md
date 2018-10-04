@@ -1,1 +1,1 @@
-# psw2_exercicio
+# ProjetoHibernate
